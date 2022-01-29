@@ -1,8 +1,14 @@
+import { SongBook } from "../../features/SongBook";
+import { Backposter } from "./Backposter";
 import { TopBar } from "./TopBar"
 
-export const  App = () => {
+export const App = () => {
   return (
-    <TopBar />
+    <>
+      <TopBar />
+      <Backposter />
+      <SongBook />
+    </>
   );
 }
 
