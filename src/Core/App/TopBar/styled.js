@@ -2,7 +2,6 @@ import styled from "styled-components";
 import { Link, NavLink } from "react-router-dom";
 
 export const Wrapper = styled.div`
-  color: ${({ theme }) => theme.color.white};
   background: ${({ theme }) => theme.color.brown_pod};
   line-height: 1;
 `;
@@ -13,10 +12,11 @@ export const Main = styled.div`
   font-family: 'Caveat', cursive;
 `;
 
-// export const LogoLink = styled(Link)`
-export const LogoLink = styled.div`
+export const LogoLink = styled(Link)`
   display: flex;
   align-items: center;
+  color: ${({ theme }) => theme.color.white};
+  text-decoration: none;
 `;
 
 export const LogoImage = styled.img`
@@ -80,8 +80,10 @@ export const LinkItem = styled.li`
   }
 `;
 
-// export const StyledLink = styled(NavLink)`
-export const StyledLink = styled.div`
+
+export const StyledLink = styled(NavLink)`
+  color: ${({ theme }) => theme.color.white};
+  text-decoration: none;
   border: 1px solid transparent;
   transition: border-color: 0.3s;
   display: block;

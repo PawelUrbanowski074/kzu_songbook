@@ -1,7 +1,7 @@
 import { LinkItem, Links, LogoImage, LogoLink, LogoText, Main, StyledLink, Wrapper } from "./styled";
 import { Container } from '../../../generalTypes/Container';
 import kzu from './kzu.png';
-
+import { toSongs, toSong } from '../../routes';
 
 export const TopBar = () => (
   <Wrapper>
@@ -14,13 +14,13 @@ export const TopBar = () => (
         <nav>
           <Links >
             <LinkItem >
-              <StyledLink>Śpiewnik</StyledLink>
+              <StyledLink to={toSongs()}>Śpiewnik</StyledLink>
             </LinkItem>
             <LinkItem >
-              <StyledLink>Opcja 2</StyledLink>
+              <StyledLink to={toSong()}>Opcja 2</StyledLink>
             </LinkItem>
             <LinkItem >
-              <StyledLink>Opcja 3</StyledLink>
+              <StyledLink to={toSong()}>Opcja 3</StyledLink>
             </LinkItem>
           </Links>
         </nav>
