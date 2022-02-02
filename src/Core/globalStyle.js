@@ -10,10 +10,11 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Poppins', sans-serif;
     background-color: ${({ theme }) => theme.color.silver};
     margin: 0;
-    font-family: 'Poppins', sans-s overflow-wrap: anywhere;
+    overflow-wrap: anywhere;
     padding-bottom: 100px;
 
     @media(max-width: ${({ theme }) => theme.breakpoint.mobileMax}) {
