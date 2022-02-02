@@ -1,7 +1,7 @@
 import { useDispatch, useSelector } from "react-redux";
 import { useLocation } from "react-router-dom/cjs/react-router-dom.min";
 import { selectSongByQuery, toggleSelected, toggleShowText, selectShowSelected } from "../songsSlice";
-import { Button, Content, Item, List, SongText, StyledArrow, StyledLink, TrackBar } from "./styled"
+import { Button, Content, HorizontalLine, Item, LineOfText, List, SongText, StyledArrow, StyledLink, TrackBar, Verse } from "./styled"
 import searchQueryParamName from "../searchQueryParamName";
 
 export const SongsList = () => {
@@ -21,7 +21,7 @@ export const SongsList = () => {
           <TrackBar>
             <Content>
               <StyledLink to={`/utwory/${song.id}`}>
-                {`${song.id}. ${song.title}`}
+                {song.title}
               </StyledLink>
             </Content>
             <Button
@@ -40,7 +40,13 @@ export const SongsList = () => {
           {
             song.showText &&
             <SongText>
-              {song.text}
+              {song.text.split('%').map(verse => (
+                <Verse>
+                  {verse.split('*').map(line => (
+                    <LineOfText>{line}</LineOfText>
+                  ))}
+                </Verse>
+              ))}
             </SongText>
           }
         </Item>
