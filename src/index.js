@@ -7,15 +7,16 @@ import { Provider } from 'react-redux';
 import { ThemeProvider } from 'styled-components';
 import { theme } from './core/theme';
 import { GlobalStyle } from './core/globalStyle.js';
+import store from './core/store.js';
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <Provider store={store} > */}
+    <Provider store={store} >
       <ThemeProvider theme={theme}>
         <GlobalStyle />
         <App />
       </ThemeProvider>
-    {/* </Provider> */}
+    </Provider>
   </React.StrictMode>,
   document.getElementById('root')
 );
