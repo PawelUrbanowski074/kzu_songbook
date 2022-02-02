@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from "react-redux";
 import { useLocation } from "react-router-dom/cjs/react-router-dom.min";
-import { selectSongByQuery, toggleSelected, toggleShowText } from "../songsSlice";
+import { selectSongByQuery, toggleSelected, toggleShowText, selectShowSelected } from "../songsSlice";
 import { Button, Content, Item, List, SongText, StyledArrow, StyledLink, TrackBar } from "./styled"
 import searchQueryParamName from "../searchQueryParamName";
 
@@ -8,12 +8,16 @@ export const SongsList = () => {
   const location = useLocation();
   const query = (new URLSearchParams(location.search)).get(searchQueryParamName);
   const songs = useSelector(state => selectSongByQuery(state, query));
+  const showSelected = useSelector(selectShowSelected);
   const dispatch = useDispatch();
 
   return (
     <List>
       {songs.map(song => (
-        <Item key={song.id}>
+        <Item
+          key={song.id}
+          hidden={!song.checked && !showSelected}
+        >
           <TrackBar>
             <Content>
               <StyledLink to={`/utwory/${song.id}`}>
@@ -30,7 +34,7 @@ export const SongsList = () => {
               onClick={() => dispatch(toggleShowText(song.id))}
               toggleHiden
             >
-              <StyledArrow rotate={song.showText}/>
+              <StyledArrow rotate={song.showText} />
             </Button>
           </TrackBar>
           {
