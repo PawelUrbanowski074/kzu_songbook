@@ -4,6 +4,7 @@ import { Header } from "../../generalTypes/Header";
 import Section from "../../generalTypes/Section";
 import { ExampleSongButton } from "./ExampleSongButton";
 import Search from "./Search";
+import { SongButtons } from "./SongButtons";
 import { SongsList } from "./SongsList";
 
 export const SongBook = () => {
@@ -18,7 +19,7 @@ export const SongBook = () => {
       />
       <Section
         title="Lista utworów"
-        // extraHeaderContent={<p>asd</p>}
+        extraHeaderContent={<SongButtons />}
         body={<SongsList />}
       />
     </Container>
