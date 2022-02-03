@@ -3,35 +3,40 @@
     "title": "1. Wzywam Cię, Duchu Przyjdź",
     "checked": false,
     "showText": false,
-    "text": "Wzywam Cię, Duchu, przyjdź,*A H cis7*Czekam wciąż, byś dotknął nas.*A H cis7*Wołam Cię, Panie, przyjdź,*A H cis7*Jezu, Zbawco, do dzieci Twych.*A H E E%Jak spragniona ziemia rosy dusza ma.*A A H cis7** A H cis7*Tylko Ty możesz wypełnić serca głód, serca głód.*A A H cis7 **A H cis7 A H E%Głębio mórz, potęgo gór. **Boże mój,Nie mogę bez Twej miłości żyć,**Nie chcę bez Ciebie żyć.",
+    "text": "Wzywam Cię, Duchu, przyjdź,*Czekam wciąż, byś dotknął nas.*Wołam Cię, Panie, przyjdź,*Jezu, Zbawco, do dzieci Twych.%Jak spragniona ziemia rosy,* dusza ma.*Tylko Ty możesz wypełnić* serca głód, serca głód.%Głębio mórz, potęgo gór. *Boże mój,* Nie mogę bez Twej miłości żyć,*Nie chcę bez Ciebie żyć.",
+    "chords":"A H cis7 */x3* A H E E %% A A H cis7 * A H cis7 /x2 * A H E ",
     "id": "1"
   },
   {
     "title": "2. Oceany",
     "checked": false,
     "showText": false,
-    "text": "ZWROTKA 1%Ty wzywasz na nieznane wody,*h A / Cis D A G*niepewnie, więc swój stawiam krok.**W ukryciu Ciebie odnajduję**i wierzyć chcę, chociaż wokół toń.%REFREN1%O Panie wzywam imię Twe*G D A*i ponad fale wznoszę wzrok, gdzie morze drży.*G D A*W ramionach Twych wytchnienie me,*G D A*bo Ciebie mam i jestem Twój.*G A H%ZWROTKA 2%W głębinach łaska Twa wystarcza,**Twa mocna dłoń ochrania mnie.**Gdy krok niepewny, strach otacza,**Ty nigdy nie, nie zawiedziesz mnie.%REFREN 1%O Panie wzywam imię Twe**i ponad fale wznoszę wzrok, gdzie morze drży.**W ramionach Twych wytchnienie me,**bo Ciebie mam i jestem Twój.**i jestem Twój.%REFREN 2%Duchu Święty naucz ufać Ci bez granic *h A / Cis D*i poprowadź mnie po wodzie,*A e (fis7)*gdziekolwiek mnie powołasz.**Zabierz dalej niż mnie nogi mogą ponieść,**będę wierzył coraz mocniej,**w obecności mego Zbawcy.",
+    "text": "ZWROTKA 1 * Ty wzywasz na nieznane wody, * niepewnie, więc swój stawiam krok. * W ukryciu Ciebie odnajduję * i wierzyć chcę, chociaż wokół toń. % REFREN 1 * O Panie wzywam imię Twe * i ponad fale wznoszę wzrok, gdzie morze drży. * W ramionach Twych wytchnienie me, * bo Ciebie mam i jestem Twój. % ZWROTKA 2 * W głębinach łaska Twa wystarcza, * Twa mocna dłoń ochrania mnie. * Gdy krok niepewny, strach otacza, * Ty nigdy nie, nie zawiedziesz mnie. % REFREN 1 * O Panie wzywam imię Twe * i ponad fale wznoszę wzrok, gdzie morze drży. * W ramionach Twych wytchnienie me, * bo Ciebie mam i jestem Twój.% REFREN 2 * Duchu Święty naucz ufać Ci bez granic * i poprowadź mnie po wodzie, * gdziekolwiek mnie powołasz. * Zabierz dalej niż mnie nogi mogą ponieść, * będę wierzył coraz mocniej, * w obecności mego Zbawcy.",
+    "chords": "% h A / Cis D A G %%%%% G D A * G D A * G D A * G A H %%% h A / Cis D * A e (fis7) * ",
     "id": "2"
   },
   {
     "title": "3. Mów do mnie Panie",
     "checked": false,
     "showText": false,
-    "text": "Mów do mnie Panie, chcę słyszeć Cię.*cis H cis H*Przyjąć od Ciebie co masz dla mnie.*cis A H* Nie chcę się chować, lecz w Tobie skryć.*cis H cis H*W cieniu twym Panie chcę iść.*cis A H%Święty, potężny jesteś Panie nasz.*cis A H cis*Przed Tobą dziś możemy stać. *A H cis*Dzięki łasce.*A H*Nie dzięki nam samym.*cis H*",
+    "text": "Mów do mnie Panie, chcę słyszeć Cię. * Przyjąć od Ciebie co masz dla mnie. * Nie chcę się chować, lecz w Tobie skryć. * W cieniu twym Panie chcę iść. % Święty, potężny jesteś Panie nasz. * Przed Tobą dziś możemy stać. * Dzięki łasce. * Nie dzięki nam samym. * ",
+    "chords": " cis H cis H * cis A H * cis H cis H * cis A H % cis A H cis * A H cis * A H * cis H *",
     "id": "3"
   },
   {
     "title": "4. Jego miłość",
     "checked": false,
     "showText": false,
-    "text": "Jego miłość zakrywa grzech *e h* Ona nie pamięta złego *C7+ G D* Jego krew - największy dar *e h* Dla każdego *C7+ a%Jego Imię - potężna moc *e h* Jezus drogą, prawdą, życiem *C7+ G D* Emmanuel, Bóg pośród nas, Odkupiciel *e h C7+ a%Bóg w łasce swej do nas zniżył się** Pozostawił chwałę nieba**Jezus wycierpiał każdy trud** Żebyś żył i już się nie bał% Tylko Tobie należy się chwała *e a C G D*Tylko Tobie należy się cześć**Tylko Tobie będziemy się kłaniać**Jezu!**",
+    "text": "Jego miłość zakrywa grzech * Ona nie pamięta złego * Jego krew - największy dar * Dla każdego % Jego Imię - potężna moc * Jezus drogą, prawdą, życiem * Emmanuel, Bóg pośród nas, Odkupiciel % Bóg w łasce swej do nas zniżył się * Pozostawił chwałę nieba * Jezus wycierpiał każdy trud * Żebyś żył i już się nie bał % Tylko Tobie należy się chwała * Tylko Tobie należy się cześć * Tylko Tobie będziemy się kłaniać * Jezu! *",
+    "chords": " e h * C7+ G D * e h * C7+ a % e h * C7+ G D * e h C7+ a %%%%%% e a C G D * ",
     "id": "4"
   },
   {
     "title": "5. Jezus żyje w nas",
     "checked": false,
     "showText": false,
-    "text": "ZWROTKA 1** Budzę się, wiedząc, po co żyję *Podstawa: Dis F g d7* Każdy sen spełnia się *capo 3: C D e h7* To z Tobą przez życie chcę iść**To moja decyzja%ZWROTKA 2** Podnosisz mnie, pokazujesz cuda** W miłości Twej znika czas** Twa wolność jest tutaj, jest w nas** Jej nic nie dorówna%PRE-CHORUS** Widzę, jak słońca blask rozjaśnia świat** Czerń i biel kolorowe stają się** Widzę, że z Bogiem wszystko nowe jest%REFREN** Jezus żyje w nas x2%BRIDGE** Prowadzisz mnie tam, gdzie nie był nikt** Twoja miłość sprawia, że chcę śnić** Twoja wolność to otwarte drzwi** Ty przerastasz me najśmielsze sny%ZWROTKA 3** Ufam Ci, wiem, że jesteś blisko** Mając Cię, wszystko mam** Ty dałeś mi miłość i cel** To właśnie dla Ciebie żyć chcę**",
+    "text": "ZWROTKA 1 * Budzę się, wiedząc, po co żyję * Każdy sen spełnia się * To z Tobą przez życie chcę iść * To moja decyzja % ZWROTKA 2 * Podnosisz mnie, pokazujesz cuda * W miłości Twej znika czas * Twa wolność jest tutaj, jest w nas * Jej nic nie dorówna % PRE-CHORUS * Widzę, jak słońca blask rozjaśnia świat * Czerń i biel kolorowe stają się * Widzę, że z Bogiem wszystko nowe jest % REFREN * Jezus żyje w nas x2 % BRIDGE * Prowadzisz mnie tam, gdzie nie był nikt * Twoja miłość sprawia, że chcę śnić * Twoja wolność to otwarte drzwi * Ty przerastasz me najśmielsze sny % ZWROTKA 3 *  Ufam Ci, wiem, że jesteś blisko * Mając Cię, wszystko mam * Ty dałeś mi miłość i cel * To właśnie dla Ciebie żyć chcę *",
+    "chords": " Podstawa: * Dis F g d7 * % capo 3: * C D e h7 *",
     "id": "5"
   }
 ]
