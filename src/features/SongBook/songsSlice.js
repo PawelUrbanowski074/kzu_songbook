@@ -5,7 +5,7 @@ const songsSlice = createSlice({
   name: "songs",
   initialState: {
     songs: getSongsFromLocalStorage(),
-    showSelected: false,
+    showSelected: true,
     loading: false,
   },
   reducers: {
