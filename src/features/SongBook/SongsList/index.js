@@ -1,7 +1,20 @@
 import { useDispatch, useSelector } from "react-redux";
 import { useLocation } from "react-router-dom/cjs/react-router-dom.min";
 import { selectSongByQuery, toggleSelected, toggleShowText, selectShowSelected } from "../songsSlice";
-import { Button, Content, HorizontalLine, Item, LineOfText, List, SongText, StyledArrow, StyledLink, TrackBar, Verse } from "./styled"
+import {
+  Button,
+  Chords,
+  Content,
+  Item,
+  LineOfChords,
+  LineOfText,
+  List,
+  SongText,
+  StyledArrow,
+  StyledLink,
+  TextVerse,
+  TrackBar
+} from "./styled"
 import searchQueryParamName from "../searchQueryParamName";
 
 export const SongsList = () => {
@@ -40,13 +53,27 @@ export const SongsList = () => {
           {
             song.showText &&
             <SongText>
-              {song.text.split('%').map(verse => (
-                <Verse>
-                  {verse.split('*').map(line => (
-                    <LineOfText>{line}</LineOfText>
-                  ))}
-                </Verse>
-              ))}
+              <TextVerse>
+                {song.text.split('%').map(verse => (
+                  <div>
+                    {verse.split('*').map(line => (
+                      <LineOfText>{line}</LineOfText>
+                    ))}
+                    <br />
+                  </div>
+                ))}
+              </TextVerse>
+
+              <Chords>
+                {song.chords.split('%').map(verse => (
+                  <div>
+                    {verse.split('*').map(line => (
+                      <LineOfChords>{line}</LineOfChords>
+                    ))}
+                    <br />
+                  </div>
+                ))}
+              </Chords>
             </SongText>
           }
         </Item>

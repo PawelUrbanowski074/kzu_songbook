@@ -5,6 +5,7 @@ import { ReactComponent as ArrowIcon } from "./arrow.svg";
 export const List = styled.ul`
   list-style: none;
   padding-left: 0;
+  margin: 0;
 `;
 
 export const Item = styled.li`
@@ -49,6 +50,7 @@ export const Button = styled.button`
   justify-self: center;
   transition: 0.3s;
   margin: 0 10px;
+  font-size: 18px;
 
   ${({ toggleDone }) => toggleDone && css`
     background-color: ${({ theme }) => theme.color.forestGreen};
@@ -69,13 +71,15 @@ export const Button = styled.button`
   @media(max-width: ${({ theme }) => theme.breakpoint.mobileMax}){
     width: 20px;
     height: 20px;
+    font-size: 12px;
   }
 `;
 
-// export const StyledLink = styled(Link)`
-export const StyledLink = styled.div`
+export const StyledLink = styled(Link)`
   text-decoration: none;
   transition: 0.3s;
+  color: ${({ theme }) => theme.color.brown_pod};
+
 
   &:hover {
     filter: brightness(110%);
@@ -113,19 +117,39 @@ export const SongText = styled.article`
   @media(max-width: ${({ theme }) => theme.breakpoint.mobileMax}){
     padding: 5px;
   }
-`;
 
-export const Verse = styled.p`
-  padding-bottom: 5px;
   display: grid;
   grid-template-columns: 3fr 1fr;
   grid-gap: 0 10px;
+  grid-template-areas:
+    "text chords";
 `;
-export const LineOfText = styled.p`
+
+export const TextVerse = styled.div`
+  padding-bottom: 5px;
+  grid-area: text;
+
+  @media(max-width: ${({ theme }) => theme.breakpoint.mobileMax}){
+    font-size: 12px;
+  }
+`;
+export const LineOfText = styled.div`
   margin: 0;
   padding: 0;
   line-height: 1.1;
+`;
+
+export const Chords = styled.div`
+  grid-area: chords;
+  font-weight: 600;
+
   @media(max-width: ${({ theme }) => theme.breakpoint.mobileMax}){
-    font-size: 14px;
+    font-size: 12px;
   }
+`;
+
+export const LineOfChords = styled.div`
+  margin: 0;
+  padding: 0;
+  line-height: 1.1;
 `;
