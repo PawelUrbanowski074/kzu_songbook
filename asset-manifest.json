@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/kzu_songbook/static/js/main.038ab510.js",
+    "static/js/787.62fba4c2.chunk.js": "/kzu_songbook/static/js/787.62fba4c2.chunk.js",
+    "static/media/kzuTlo1.jpg": "/kzu_songbook/static/media/kzuTlo1.726fd91ccc8514d401f2.jpg",
+    "static/media/kzu.png": "/kzu_songbook/static/media/kzu.e3a7d3b6e1a40881279d.png",
+    "index.html": "/kzu_songbook/index.html",
+    "static/media/arrow.svg": "/kzu_songbook/static/media/arrow.9fdf3bd27bbc8f2eccc7031acdd6c09c.svg",
+    "main.038ab510.js.map": "/kzu_songbook/static/js/main.038ab510.js.map",
+    "787.62fba4c2.chunk.js.map": "/kzu_songbook/static/js/787.62fba4c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.038ab510.js"
+  ]
+}
