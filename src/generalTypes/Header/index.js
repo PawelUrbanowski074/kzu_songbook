@@ -7,7 +7,8 @@ export const Header = styled.header`
     font-weight: 600;
 
     @media(max-width: ${({ theme }) => theme.breakpoint.mobileVerticalMax}) {
-        font-size: 18px;
+        font-size: 28px;
         margin-top: 20px;
+        text-align: center;
     }
 `;
