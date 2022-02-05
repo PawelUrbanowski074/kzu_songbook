@@ -2,7 +2,6 @@ import { useDispatch, useSelector } from "react-redux";
 import { useLocation } from "react-router-dom/cjs/react-router-dom.min";
 import { selectSongByQuery, toggleSelected, toggleShowText, selectShowSelected } from "../songsSlice";
 import {
-  Button,
   Chords,
   Content,
   Item,
@@ -15,6 +14,7 @@ import {
   TextVerse,
   TrackBar
 } from "./styled"
+import { SongListButton } from '../../../generalTypes/SongsListButton';
 import searchQueryParamName from "../searchQueryParamName";
 
 export const SongsList = () => {
@@ -37,18 +37,18 @@ export const SongsList = () => {
                 {song.title}
               </StyledLink>
             </Content>
-            <Button
+            <SongListButton
               onClick={() => dispatch(toggleSelected(song.id))}
               toggleDone
             >
               <span>{song.checked ? "✔" : ""}</span>
-            </Button>
-            <Button
+            </SongListButton>
+            <SongListButton
               onClick={() => dispatch(toggleShowText(song.id))}
               toggleHiden
             >
               <StyledArrow rotate={song.showText} />
-            </Button>
+            </SongListButton>
           </TrackBar>
           {
             song.showText &&
