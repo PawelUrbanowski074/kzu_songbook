@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import styled, { css } from "styled-components";
-import { ReactComponent as ArrowIcon } from "./arrow.svg";
 
 export const List = styled.ul`
   list-style: none;
@@ -55,25 +54,6 @@ export const StyledLink = styled(Link)`
 
   &:active {
     filter: brightness(120%);
-  }
-`;
-
-export const StyledArrow = styled(ArrowIcon)`
-  color: ${({ theme }) => theme.color.white};
-  width: auto;
-  transform: rotate(90deg);
-  transition: 0.3s;
-  
-  ${({ rotate }) => rotate && css`
-    transform: rotate(270deg);
-  `}
-
-  *:disabled & {
-    color: ${({ theme }) => theme.color.waterloo};
-  }
-
-  @media(max-width: ${({ theme }) => theme.breakpoint.mobileVerticalMax}){
-    height: 8px;
   }
 `;
 

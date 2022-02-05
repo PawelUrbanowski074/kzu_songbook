@@ -8,12 +8,12 @@ import {
   LineOfChords,
   LineOfText,
   List,
-  SongText,
-  StyledArrow,
   StyledLink,
   TextVerse,
   TrackBar
 } from "./styled"
+import { StyledArrow } from "../../../generalTypes/Arrow";
+import { SongText } from "../../../generalTypes/SongText";
 import { SongListButton } from '../../../generalTypes/SongsListButton';
 import searchQueryParamName from "../searchQueryParamName";
 
@@ -52,29 +52,7 @@ export const SongsList = () => {
           </TrackBar>
           {
             song.showText &&
-            <SongText>
-              <TextVerse>
-                {song.text.split('%').map(verse => (
-                  <div>
-                    {verse.split('*').map(line => (
-                      <LineOfText>{line}</LineOfText>
-                    ))}
-                    <br />
-                  </div>
-                ))}
-              </TextVerse>
-
-              <Chords>
-                {song.chords.split('%').map(verse => (
-                  <div>
-                    {verse.split('*').map(line => (
-                      <LineOfChords>{line}</LineOfChords>
-                    ))}
-                    <br />
-                  </div>
-                ))}
-              </Chords>
-            </SongText>
+            <SongText id={song.id} />
           }
         </Item>
       ))}
