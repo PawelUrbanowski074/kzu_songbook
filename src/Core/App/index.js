@@ -5,12 +5,14 @@ import { TopBar } from "./TopBar"
 
 import { HashRouter, Switch, Route, Redirect } from "react-router-dom";
 import { toSongs, toSong } from "../routes";
+import { GoUpButton } from "./GoUpButton";
 
 export const App = () => {
   return (
     <HashRouter>
       <TopBar />
       <Backposter />
+      {/* <GoUpButton /> */}
       <Switch>
         <Route path={toSong()}>
           <SongPage />
