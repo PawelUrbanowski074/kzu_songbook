@@ -1,4 +1,5 @@
 import { SongBook } from "../../features/SongBook";
+import { SongPage } from "../../features/SongPage";
 import { Backposter } from "./Backposter";
 import { TopBar } from "./TopBar"
 
@@ -12,7 +13,7 @@ export const App = () => {
       <Backposter />
       <Switch>
         <Route path={toSong()}>
-          <p>jeszcze nie ma</p>
+          <SongPage />
         </Route>
         <Route path={toSongs()}>
           <SongBook />
