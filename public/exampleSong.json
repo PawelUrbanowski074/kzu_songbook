@@ -313,13 +313,75 @@
   },
   {
     "title": "40. Duszo Ma Pana Chwal",
-    "checked": true,
-    "showText": true,
+    "checked": false,
+    "showText": false,
     "text": "REFREN * Duszo ma, Pana chwal, oddaj Bogu cześć, * Świętemu śpiewaj pieśń. * Z mocą wywyższaj go, duszo ma, Uwielbiam, Boże, Cię % ZWROTKA 1 * Nowy dzień wraz ze wschodem słońca, * Znów nadszedł czas, by Ci śpiewać pieśń. * Cokolwiek jest już za mną i to wszystko, co przede mną * Wiem, będę śpiewać, gdy nadejdzie zmrok. % ZWROTKA 2 * Bogaty w miłość, gniew oddalasz, Panie, * Twe serce miłe, wielkie Imię Twe. * Ze względu na Twą dobroć będę śpiewać Tobie pieśni, * Wiele powodów, by uwielbiać Cię. % ZWROTKA 3 * Przyjdzie dzień, gdy bez sił zostanę, * Nadejdzie czas mego końca tu. * Dusza ma będzie już na zawsze Cię uwielbiać, * W wieczności z Tobą piękna zabrzmi pieśń. ",
     "chords": "%G D A/Cis h * G D A4 A * G h G A h * G A G/D G %% G D A h * G D A h * G D A/Cis * G D A4 A D ",
     "id": "40"
+  },
+  {
+    "title": "41. Niepojęty",
+    "checked": false,
+    "showText": false,
+    "text": "ZWROTKA 1 * Z głębokości mórz, aż po szczyty gór * Stworzenie objawia majestat Twój. * Od kolorów jesieni po wiosenny nów * Wszystko śpiewa Ci pieśń pełną cudownych słów, ogłaszając: % REFREN *  Niepojęty, Niezmierzony, * Gwiazdy stworzyłeś na niebie i każdą z nich znasz. * Wspaniałym Bogiem Tyś jest, * Wszechmogący, Nieskończony, * W zachwycie klękamy przed Tobą, by wyznać Ci, że, * Wspaniałym Bogiem Tyś jest. % ZWROTKA 2 * Kto uwalnia błyskawic moc w czasie burz, * Kto maluje kolory polarnych zórz, * Słońce stworzył na niebie i dał mu swą moc, * Orzeźwienie przynosi w gwieździstą noc? Tylko Ty: * ",
+    "chords": "% fis E/Gis A *  h h7 G * fis E/Gis A * h h7 G D %% A E * D fis * h7 D * A E * D fis * h7 D",
+    "id": "41"
+  },
+  {
+    "title": "42. Jesteś Blisko Mnie",
+    "checked": false,
+    "showText": false,
+    "text": "Jesteś blisko mnie, * Tęsknię za Duchem Twym. * Kocham kroki Twe * I wiem jak pukasz do drzwi. % Przychodzisz jak ciepły wiatr, * Otwieram się i czuję znów, że: % Twoja miłość jak ciepły deszcz, * Twoja miłość jak morze gwiazd za dnia. * Twoja miłość sprawia, że  * Nieskończenie dobry Święty Duch * Ogarnia mnie. ",
+    "chords": "h A E h /x2 %%%% G A E * G A E fis % h E fis7 * h G A D/h * h E fis7 * h A G * E7 fis7 h",
+    "id": "42"
+  },
+  {
+    "title": "43. Memu Bogu Królowi",
+    "checked": false,
+    "showText": false,
+    "text": "Wstęp: % Memu Bogu Królowi * będę śpiewał tę pieśń, * teraz, zawsze, na wieki, Amen. % /Alleluja/3x, Amen! ",
+    "chords": " B C g a B C D % d C a d * B C D %% B C g a B C D",
+    "id": "43"
+  },
+  {
+    "title": "44. Memu Bogu",
+    "checked": false,
+    "showText": false,
+    "text": "Intro: % Jesteś nieskończenie wielki, * umocniłeś ziemię i się nigdy nie zachwieje * Jesteś nieskończenie piękny, * Ty ubrałeś wszystkie kwiaty, * na Twą cześć śpiewają ptaki * Jesteś nieskończenie wierny, * Ty nas karmisz i prowadzisz, * w swoim czasie wszystko dajesz * Jesteś nieskończenie święty, * święty, święty, święty % REFREN * Memu Bogu będę śpiewał * jak długo będę żył * Memu Bogu będę grał * póki starczy mi sił x4 % Przygrywka: % Jesteś nieskończenie mądry, * słońce wie kiedy wstaje, *  zsyłasz noc – ciemność nastaje * Jesteś nieskończenie hojny, * gdy otwierasz rękę – *  wszystko dobrem się napełnia * Jesteś nieskończenie dobry, * tam gdzie zsyłasz Ducha – stwarzasz, *  ziemię naszych serc odnawiasz * Jesteś nieskończenie święty, * święty, święty, święty % REFREN * Memu Bogu będę śpiewał jak długo będę żył * Memu Bogu będę grał póki starczy mi sił x2 % Memu Bogu będę śpiewał…  * póki starczy mi sił! * Memu Bogu będę śpiewał…  * póki starczy mi sił!  * Memu Bogu… Memu Bogu… *  Memu Bogu… póki starczy mi sił! * Memu Bogu będę śpiewał… *  póki starczy mi sił! % Przygrywka2: % REFREN * Memu Bogu będę śpiewał  * jak długo będę żył * Memu Bogu będę grał  * póki starczy mi sił x4 * ",
+    "chords": "C F/D C/E F /x2 % C F/D C/E F /x4 %%%%%%%%%%% A h7 A/Fis D /x2 * A h7 fis D * A h7 A/Fis D %% A h7 /x3   F7+ G % C F/D C/E F /x4 %%%%%%%%%%% A h7 A/Fis D /x2 %%%%%%%%%%%a E F7+/D lub a/D /x2 %  A h7 A/Fis D /x2 * A h7 fis D A h7 A/Fis D",
+    "id": "44"
+  },
+  {
+    "title": "45. Bramy Podnieście Szczyty",
+    "checked": false,
+    "showText": false,
+    "text": "Bramy podnieście szczyty * Unieście się podwoje * Niech wejdzie król chwały  * Pan mocny i potężny  % Bramy podnieście szczyty * Unieście się podwoje * Niech wejdzie król chwały  * Pan mocny i potężny % (przygrywka) % Bramy podnieście szczyty * Unieście się podwoje * Niech wejdzie król chwały  * Pan mocny i potężny % Pan zastępów  * On jest królem chwały  / x4 % Jakże wielkie jego znaki * Jak potężne jego cuda  * To królestwo wiecznym będzie * Panowanie na wszystkie pokolenia  Wszystkie pokolenia % Chwała królowi który przychodzi w imię Pana / x16 ",
+    "chords": "G A B /x4 %%%%% %%%%%%%%%%% D E F G ",
+    "id": "45"
+  },
+  {
+    "title": "46. Ciebie Całą Duszą Pragnę",
+    "checked": false,
+    "showText": false,
+    "text": "Ciebie całą duszą pragnę i z tęsknotą oczekuję, * Jak spękana, zeschła ziemia w czas posuchy wody łaknie. % REFREN * Boże, jesteś moim Bogiem, * Ciebie z troską szukam. (2x) % 2. W Twej świątyni ujrzeć pragnę * Twą potęgę, moc i chwałę, * Bowiem Twoją miłość, Panie, * Bardziej cenię niźli życie. % 3. Póki tylko istnieć będę, * Pragnę Ciebie chwalić, Boże. * Dusza moja pełna szczęścia, * Będzie śpiewać Ci z radością. % 4. Jesteś mym Wspomożycielem, * Cień Twych skrzydeł daje radość. * Całym sercem lgnę do Ciebie * Twa prawica mnie prowadzi. ",
+    "chords": "",
+    "id": "46"
+  },
+  {
+    "title": "47. W To Wierzę",
+    "checked": false,
+    "showText": false,
+    "text": "Intro: % Nasz Ojcze nieskończony * Wszystko stworzyłeś Ty * Wszechmogący * Świętego Ducha mocą * Poczęty został Syn * Jezus, nasz Zbawca % REFREN * Tak, ja wierzę w Boga Ojca * W Syna, którym Jezus jest * Wierzę też w Świętego Ducha * Bóg jest w osobach trzech * Wierzę także w zmartwychwstanie * Że powstaniemy znów * Wyznaję to: Wierzę w imię Jezus % Intro % ZWROTKA 2 * Nasz Sędzio, nasz Obrońco * Cierpiałeś za nasz grzech * A nam przebaczono * Ty zszedłeś do ciemności * I w chwale wzniosłeś się * Zająłeś w niebie tron % REFREN 1  % BRIDGE * Wierzę, że Bóg jest * Wierzę, że pokonał śmierć * Wierzę, że to Chrystus Panem jest % REFREN 2 * Wierzę, że jest życie wieczne * Że na ziemię przyszedł Bóg * Wierzę we wspólnotę świętych * I święty Kościół Twój * Wierzę w nasze zmartwychwstanie * Gdy Jezus przyjdzie znów * Wyznaję to: Wierzę w imię Jezus ",
+    "chords": "F a G C/E /x2 % F a * G C/E F * G C/E F * F a * G C/E F * G %% C D * F G * a * F G C * C D/C * F G * a F G % F A G C/E /x2 %% F a * G C/E F * G C/E F * F a * G C/E F * G %%%% C F a G C/E * F a G C/E * F a G C %% C D/C * F G * a * F G C * C D/C * F G * a F G",
+    "id": "47"
+  },
+  {
+    "title": "48. Przybądź Święty",
+    "checked": false,
+    "showText": false,
+    "text": "Wstęp % ZWROTKA 1 * Języku ognia przyjdź i płoń w naszych sercach * Duchu miłości przemieniaj nas * Swe pocieszenie nam daj i wypełniaj. * Duchu nadziei umacniaj nas % REFREN * Przybądź Święty, Niepojęty  * Z nieba na nas tchnięty Duchu. * Rozpal świętą, niepojętą  * Z nieba na nas tchniętą miłość * nią ogarnij nas. Amen /x2 % ZWROTKA 2 * Obłoku jasny ochroń nas przed gniewem Złego * Daj soli smak i światłu blask * Nie daj się ukryć miastu Boga przedwiecznego  * osłaniaj je strzeż jego bram % REFREN * Przybądź Święty, Niepojęty  * Z nieba na nas tchnięty Duchu. * Rozpal świętą, niepojętą * Z nieba na nas tchniętą miłość * nią ogarnij nas. Amen % ZWROTKA 3 * Pocieszycielu radość swą ześlij z nieba * wszak Dobry ją obiecał nam * Przerwij milczenie w imię Syna Słowa Chleba! * Najświętsze Tchnienie wołaj w nas % REFREN * Przybądź Święty, Niepojęty * Z nieba na nas tchnięty Duchu. * Rozpal świętą, niepojętą * Z nieba na nas tchniętą miłość * nią ogarnij nas. Amen ",
+    "chords": "A C D A D A %% A C D A * D A * A C D A * D A %% fis D A * fis D A * D A D A",
+    "id": "48"
   }
-
-
 
 ] 
