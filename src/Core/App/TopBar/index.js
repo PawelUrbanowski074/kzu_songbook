@@ -17,10 +17,10 @@ export const TopBar = () => (
               <StyledLink to={toSongs()}>Śpiewnik</StyledLink>
             </LinkItem>
             <LinkItem >
-              <StyledLink to={toSong()}>Opcja 2</StyledLink>
+              <StyledLink to={toSongs()}>Opcja 2</StyledLink>
             </LinkItem>
             <LinkItem >
-              <StyledLink to={toSong()}>Opcja 3</StyledLink>
+              <StyledLink to={toSongs()}>Opcja 3</StyledLink>
             </LinkItem>
           </Links>
         </nav>
