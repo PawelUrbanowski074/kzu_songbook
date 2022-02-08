@@ -394,7 +394,7 @@
   {
     "title": "50. Wake",
     "checked": false,
-    "showText": true,
+    "showText": false,
     "text": "ZWROTKA 1 * To nowy dzień * Nadziei czas * Wołamy Cię * Ty słyszysz nas * Serca chcą * Z Twoim bić * Tam, gdzie Ty * Chcemy być % ZWROTKA 2 * I z ogniem w oczach iść * By światłem być * Bo miłość Twa * Rozpala nas * I będą lśnić * Ulice miast * Bo noc pokonał * Chwały blask PRE-CHORUS * Nigdy nie opuścisz mnie * Twa miłość wieczna jest * Blisko tak * Cały czas * I rozjaśnia każdy dzień % REFREN * Ty zbudź się we mnie * Zbudź się we mnie * Bądź w moim sercu wiecznie % BRIDGE * Na zawsze, na zawsze, na zawsze * Przy Tobie * Na zawsze, na zawsze, na zawsze * Przy Tobie * Na zawsze, na zawsze, na zawsze * Przy Tobie * Na zawsze, na zawsze, na zawsze * Już wiem, że ",
     "chords": " C D h e ",
     "id": "50"
@@ -457,13 +457,146 @@
   },
   {
     "title": "58. Mów Do Mnie",
-    "checked": true,
-    "showText": true,
+    "checked": false,
+    "showText": false,
     "text": "Zmęczona z zgiełkiem dnia * Chcę się zanurzyć w ciszy, * Chcę słyszeć tylko twój kochany głos. * Niech nie widzialny świat * Odkrywa swoje barwy, * Melodia Twoich słów dotyka mnie. * Prawdą Jest % REFREN * Więc proszę mów, Mów do mnie. *  Chcę słyszeć znów twój głos. * Nad milion słów, jedno twoje * Więc proszę mów... % Nadajesz rzeczom sens, * Układasz wszystko w całość. * W milczeniu czekać chcę, na dalszy cios. * Twój głos przenika mnie, * Uzdrawia moją duszę. * Tak bardzo cieszy i wzrusza do łez prawdą jest... % REFREN * Więc proszę mów, Mów do mnie. * Chcę słyszeć znów twój głos. * Nad milion słów, jedno twoje * Więc proszę mów... * mów do mnie, mów do mnie * słowo święte słowo doskonałe % słowo święte słowo , * ono słodkie jest jak miód * słowo święte słowo, * jak młot który kruszy skałę * słowo święte słowo, * skałę serca mego skrusz * słowo doskonałe * mów do mnie, tak proszę mów % słowo święte słowo.. * mów do mnie.. * ono słodkie jest jak miód * chcę słyszeć znów * słowo święte słowo... * Twój głos * jak młot który kruszy skałę * na milion słów * słowo święte słowo... * jedno Twoje * skałę serca mego skrusz * więc proszę mów * słowo doskonałe * proszę mów... % REFREN * słowo święte słowo , ono słodkie jest jak miód... ",
     "chords": "G a C * G C a* G a C * e D %%%%%%%%%%%%%%%%%%%%%%%%%% a C G e (G)",
     "id": "58"
+  },
+  {
+    "title": "59. Wywwyższony Bądź",
+    "checked": false,
+    "showText": false,
+    "text": "Wywyższony bądź o Panie, *  który w niebie masz swój tron * Wywyższony bądź! % Twoja miłość nie ustaje  * i napełnia serca, Wywyższony bądź! % Twoja łaska jak deszcz z nieba  * wszystkie winy ze mnie zmywa, * Wywyższony bądź! % Jesteś moim dobrym Ojcem  * i na pewno wiem że Ty  * kochasz mnie % Uwielbiam imię Twe, Oddaję chwałę Ci * Jesteś jedyną mą nadzieją, *  jedyną mą pomocą Panie mój % W Tobie jest życie me, * w Tobie jest moja moc * W Tobie jest moje wyciszeniem  * mojej duszy dom o Panie mój % O Panie mój czas oddaje Tobie * Mój świat tylko w Tobie ma sens  * Chce umieć być tym kim dla Ciebie jestem * Chce zawsze byś był w duszy mej % ",
+    "chords": "G e H D /x4 %%%%%%%%%%%%%% G A h D * G e h D * G A h D * G e h D %%%% G A h D * G A h D * G e7 * G ",
+    "id": "59"
+  },
+  {
+    "title": "60. Panie Gdy Tonę",
+    "checked": false,
+    "showText": false,
+    "text": "Panie gdy tonę Ty ocal mnie * Wierzę CI, ufam że * Krwią zapłaciłeś, bym Twoim był * Oto więc jestem Twym ",
+    "chords": "h7 A G2 D * G2 D G2 D /x2 % ... A (cis)",
+    "id": "60"
+  },
+  {
+    "title": "61. Powstań I Żyj",
+    "checked": false,
+    "showText": false,
+    "text": "Powstań i żyj, chociaż wokół mrok. * Powstań i żyj, dobro wielką ma moc, * Powstań i żyj, choć upadłeś nie raz, * Jezus doda Ci sił, On zmartwychwstał byś żył,  * Jezus doda Ci sił, On zmartwychwstał byś żył!  % Ile trzeba łez, aby wrócić do Ciebie, * Jak daleko oddalić się, by usłyszeć twój szept,  * Jak bardzo żałować, aby pękło to serce kamienne * Ile trzeba łez, aby wrócić do Ciebie  % Powstań i żyj … ",
+    "chords": "a7 e7 a7 F7 %%%%% a G f (G) %%% a G F ",
+    "id": "61"
+  },
+  {
+    "title": "62. Wszystko Poddane Jest ",
+    "checked": false,
+    "showText": false,
+    "text": "Któż jest jak On, * kto oddałby w niebie tron * Któż jest jak On, * kto zostawiłby chwałę swą % Światłość światłości przyszła * A ciemność ciemności jest pokonana * Na krzyżu siebie wydał * By śmierci już zadać kłam na zawsze. % Któż jest jak On, kto życie za życie dał * Któż jest jak On, kto grzechem za nas się stał % Światłość światłości przyszła * A ciemność ciemności jest pokonana * Na krzyżu siebie wydał * By śmierci już zadać kłam na zawsze. % REF: * Ponad wszystko jest uwielbiony ten * Który za nas zmarł * Ponad wszystko jest uwielbiony ten * Zmartwychwstały Pan % Wszystko poddane jest * Wszystko poddane jest * Pod stopy Twoje % Władza i wszelka moc * Na niebie, na ziemi są w twoich rękach % Uwielbiony bądź, uwielbiony bądź * Wszechmogący, pośród nas % Ponad wszystko … /x2 * Wszystko poddane jest /x2 ",
+    "chords": "G h A G * A fis G * G A fis G * G A fis G % G h A * G h A h A * G h A * G h A fis G %%%%%%%%%% D h * G D/Fis * D h * G D/Fis % G h A * G h A * G D %%%%%%% G h A /x4",
+    "id": "62"
+  },
+  {
+    "title": "63. Nie Chcę Już Bez Ciebie Żyć",
+    "checked": false,
+    "showText": false,
+    "text": "Nie chcę już bez Ciebie żyć Panie mój * Obecność Twa wszystkim dla mnie jest /x2 % Więc będę wielbił Ciebie w każdy czas * Nigdy nie przestanę wielbić Twego imienia /x2 % Panie mój Ty zbawiłeś mnie * Ooo Panie mój Ty zbawiłeś mnie ",
+    "chords": "A E H * A fis E % A E H * A cis H % A E",
+    "id": "63"
+  },
+  {
+    "title": "64. Porwałeś Mnie",
+    "checked": false,
+    "showText": false,
+    "text": "Usłyszeć chcę pieśń o miłości Twej * Objaw swe serce mi /x4 % Porwałeś mnie * Chcę żyć dla Ciebie * Pragnę serce Twe znać % Rzeczy dzieją się * Gdy dotykasz mnie * Życie zmienia się * Gdy jesteś ",
+    "chords": "D e(7) G %% H A * D G * H A G (D) % D e G ",
+    "id": "64"
+  },
+  {
+    "title": "65. Oddajmy Cześć",
+    "checked": false,
+    "showText": false,
+    "text": "Oddajmy cześć, wiecznemu Panu chwał * Pokłońmy się, temu który * Rozpostarł niebiosa i utwierdził w ziemi krąg * Jego chwała wznosi się ponad szczyty gór * Jego łaska nad nami jest * A niebo jego tron % Bóg to nasz Pan i tylko On ",
+    "chords": "a7 d7 e7 a7 C7+ * d7 e7 a7 C7+ /x3 %%% d7 e7 F G a % F G a",
+    "id": "65"
+  },
+  {
+    "title": "66. Zaufałem Panu",
+    "checked": false,
+    "showText": false,
+    "text": "Zaufałem Panu i już * Niczego nie muszę się lękać * Zaufałem Panu i już * Niczego nie muszę się trwożyć % Wierzę Mu, bo On ma moc * Przezwyciężyć w moim sercu zło * Wierzę mu bo On ma właśnie taką moc ",
+    "chords": "e D * C G * e D * C G % a D * G C * a D e ",
+    "id": "66"
+  },
+  {
+    "title": "67. Bojaźń",
+    "checked": false,
+    "showText": false,
+    "text": "Mądrość przychodzi przez * Mądrość przychodzi przez bojaźń * Chcę tylko Ciebie się bać * Ciebie się bać % Nie człowieka, nie okoliczności * Lecz tylko Ciebie się bać % Nasz Bóg jest nieobliczalny * W swoje łasce  * On czyni to co tylko chce % Zamieram w bojaźni *  Widząc piękno Twe * Zastygam w uniżeniu * Bo jesteś święty",
+    "chords": " g d Dis c * a e F d",
+    "id": "67"
+  },
+  {
+    "title": "68. Wypalaj Mnie",
+    "checked": false,
+    "showText": false,
+    "text": "INTRO * ZWROTKA 1 * Z Twoją pomocą * Przejdę przez ogień * Na końcu drogi * Mokrej od łez * Czynisz mnie lepszym % W mojej słabości * Ty mnie uświęcasz * Jako ofiarę * Wszystko co mam * Wrzucę w ten ogień % REFREN * Wypalaj mnie wypalaj mnie * Niech Twoja moc mnie łamie * Niech nic nie zostanie * Wypalaj mnie wypalaj mnie * Niech Twoja moc mnie łamie * I nic nie zostanie * Tylko Ty % ZWROTKA 2 * Ty nie zamykasz * Swojego serca * Zawsze usłyszysz * Mój cichy szept * Moje wołanie % Będę Ci wierny * W dniu mojej próby * Pójdę za Tobą * Uczyń co chcesz * Ja ufam Ci % REFREN ",
+    "chords": " a F /x3 G C F * A F C G %%%%%%%%%%%%% a F a F * d(F) G d(F) G",
+    "id": "68"
+  },
+  {
+    "title": "69. Zaufaj Serce Me",
+    "checked": false,
+    "showText": false,
+    "text": "Zaufaj serce me, Pan Twój Bogiem jest. * To w jego rękach jest życie twe. * Odpocznij dziś i wiedz, że w słabości twej. * Jego siła jest doskonała.  % Bo Ty i tylko Ty jesteś moim Bogiem. * Ty zasiadasz dziś , na mego serca tronie. * Ty zdobyłeś mnie, gdy oddałeś życie swe.  % Zaufaj serce me Pan Twój Bogiem jest.  * To w jego rękach jest życie twe.  * Odpocznij dziś i wiedz, że w słabości twej.  * Jego siła jest doskonała  % Bo Ty i tylko Ty jesteś moim Bogiem.  * Ty zasiadasz dziś, na mego serca tronie.  * Ty zdobyłeś mnie gdy oddałeś życie swe .  /x2 % Wszystko we mnie wielbi Ciebie. * Moja dusza chwali Cię. * Wszystko we mnie woła chwała.  * Błogosławię imię Twe. /x2 ",
+    "chords": "H E * gis Fis E %%% E Fis gis Fis /x4 ... cis Gis Fis %%%%%%%%%%% Fis gis H E ",
+    "id": "69"
+  },
+  {
+    "title": "70. Bili Go Trzciną",
+    "checked": false,
+    "showText": false,
+    "text": "Bili Go trzciną i pluli Mu w twarz * Mówili: 'prorokuj' * który to uderzył Ciebie z nas % A On choroby nasze wziął, * Cierpienia nasze wziął na Krzyż * Bym ja mógł żyć, byś Ty mógł żyć... * Czy o tym wiesz... % Czy mówił Ci już kiedyś ktoś * że to Twój i mój grzech przybił go... * Czy o tym wiesz? Czy o tym wiesz? ",
+    "chords": "D A G * A * D A G A % D A G * A D * D G * G % G D * G D * G D",
+    "id": "70"
+  },
+  {
+    "title": "71. Całe Serce (Whole Heart)",
+    "checked": false,
+    "showText": false,
+    "text": "INTRO* ZWROTKA 1 * Trzymaj mnie * W rękach, które stworzyły niebiosa * Zanurz mnie * W łasce, która zna głębię Twych ran * Wyrwałeś z błota mnie, Na skale stoję Twej * Odnowiłeś mnie, I dałeś mi imię swe % ZWROTKA 2 * Jestem tu * I pamiętam, że to dzięki Tobie * Śpiewam dziś * Bo nie muszę już więcej się bać * Wyrwałeś z błota mnie, Na skale stoję Twej * Odnowiłeś mnie, I dałeś mi imię swe % REFREN * Poddaję Ci Cały mój świat * Potrzebuję Cię * Serce me, Trzymaj na zawsze * Niech Twoim jest % POST-CHORUS 1 * Ty pokochałeś, Na wskroś całe serce me * Grzech mnie nie trzyma już, Teraz Ty trzymasz mnie % ZWROTKA 3 * Łaska Twa * Pokonała moc grobu * Mój cały wstyd i grzech * Został tam zamiast mnie * Zburzyłeś wielki mur * Odrzuciłeś głaz, Opuściłeś grób * Niosąc mnie cały czas % POST-CHORUS 2 * Ty pokochałeś, Na wskroś całe serce me * Grzech mnie nie trzyma już, Teraz Ty trzymasz mnie * Moje łańcuchy, Ty rozerwałeś sam, * Śmierć mnie nie trzyma już * Trzyma mnie łaska Twa, I ta łaska wciąż trwa ",
+    "chords": "E Bsus/E E A/E ** A7 * E Bsus * A7* E Bsus* cis7 A E Bsus * E/Gis Bsus %%%%%%%%%% cis Bsus* E A * cis Bsus * E A %% cis7 Bsus E A /x2",
+    "id": "71"
+  },
+  {
+    "title": "72. Niezawodna Miłość",
+    "checked": false,
+    "showText": false,
+    "text": "ZWROTKA 1 * Szukałem Ciebie * Ty byłeś blisko mnie * Jak znaleźć mnie wiedziałeś to * Ty byłeś szeptem * Wiodłeś do serca mnie * Na zawsze Panie * będę Twój % PRE-CHORUS * I widzę przejrzyście, * że Ty jesteś dla mnie * Nie odpuścisz, bo… % REFREN * Miłość Twa niezawodna jest * Miłość Twa wszechobecna jest * Trzymam Ciebie się * Ty nie zawiedziesz mnie * Wszystko z Ciebie chcę * Nigdy nie zmienisz się * Miłość Twa niezawodna jest % ZWROTKA 2 * Jestem w potrzebie * Słuchasz jak modle się * Nad wszystkich innych jestem ja  * Na niebie błyszczą  * Twe obietnice, więc * Do Ciebie dotrę,  * w ciemną noc % PRE-CHORUS * REFREN * ",
+    "chords": "% D * e D * a b7 * C * e D * a b7 %%% C e * D* a b7 %% C e D * a b7 /x3 %% C e D * C",
+    "id": "72"
+  },
+  {
+    "title": "73. Otwórz Me Oczy O Panie ",
+    "checked": false,
+    "showText": false,
+    "text": "Otwórz me oczy, o Panie, * Otwórz me oczy i serce. * Chcę widzieć Ciebie. % Wywyższonego widzieć chcę, * ujrzeć Ciebie w blasku Twej chwały * Wylej swą miłość i moc, * gdy śpiewam święty, święty, święty * Święty, święty, święty! * Chcę widzieć Ciebie",
+    "chords": "D gis G %%% A h * G A * fis h * G A * G A * D",
+    "id": "73"
+  },
+  {
+    "title": "74. Podnieś Mnie Jezu",
+    "checked": false,
+    "showText": false,
+    "text": "Podnieś mnie Jezu * I prowadź do Ojca/x2 * Zanurz mnie w wodzie  * Swego Miłosierdzia * Amen ",
+    "chords": "e C D h * e C D H7 * G D * h e * C D h e",
+    "id": "74"
+  },
+  {
+    "title": "75. Ty Dałeś Mi Nadzieję Dziś",
+    "checked": false,
+    "showText": false,
+    "text": "Ty dałeś mi nadzieję dziś * Przez Twój krzyż * Zesłałeś mi pełnię Twych łask * Przez Twój krzyż, gdzie zbawiłeś mnie % Twoja chwała jest jak * Słońca poranny blask * Na wieki wieków Tyś Pan * Patrzę wciąż w niebo, gdzie * Anioł wielbi Cię * Śpiewa święty jest nasz Pan ",
+    "chords": "D fis * G D * D fis * G D % D G * A h * G D A * G D * A h * A G",
+    "id": "75"
   }
-
-
-
 ] 
