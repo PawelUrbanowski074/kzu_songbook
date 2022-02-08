@@ -1,6 +1,6 @@
-export const getExampleSongs = async () => {
-  const response = await fetch("/kzu_songbook/exampleSong.json");
-  
+export const getExampleSongs = async ( title ) => {
+  const response = await fetch(`/kzu_songbook/${title}`);
+
   if (!response.ok) {
     new Error(response.statusText);
   }
