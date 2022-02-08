@@ -6,7 +6,7 @@ import { saveSongsInLocalStorage } from "./localStorage";
 function* fetchExampleSongsHandler() {
   try {
     yield delay(1000);
-    const exampleSongs = yield call(getExampleSongs);
+    const exampleSongs = yield call(getExampleSongs, "exampleSong.json");
     yield put(fetchExampleSongsSuccess(exampleSongs));
   } catch (error) {
     yield put(fetchExampleSongsError());
