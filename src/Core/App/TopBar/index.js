@@ -1,7 +1,7 @@
 import { LinkItem, Links, LogoImage, LogoLink, LogoText, Main, StyledLink, Wrapper } from "./styled";
 import { Container } from '../../../generalTypes/Container';
 import kzu from './kzu.png';
-import { toSongs, toSong } from '../../routes';
+import { toSongs} from '../../routes';
 
 export const TopBar = () => (
   <Wrapper>
