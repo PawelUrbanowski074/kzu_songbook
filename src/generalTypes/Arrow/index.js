@@ -5,7 +5,7 @@ import { ReactComponent as ArrowIcon } from "./arrow.svg";
 export const StyledArrow = styled(ArrowIcon)`
   color: ${({ theme }) => theme.color.white};
   transform: rotate(90deg);
-  transition: 0.3s;
+  transition: ease-in-out 0.3s;
   width: 6px;
   height: auto;
 
@@ -26,5 +26,10 @@ export const StyledArrow = styled(ArrowIcon)`
     @media(max-width: ${({ theme }) => theme.breakpoint.mobileMax}){
       width: 10px;
     }
+  `}
+
+  ${({ isPhotoVisible }) => isPhotoVisible && css`
+    transform: rotate(270deg);
+    color: ${({ theme }) => theme.color.black};
   `}
 `;
