@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.js": "/kzu_songbook/static/js/main.8b6442b6.js",
+    "main.css": "/kzu_songbook/static/css/main.7b12cb80.css",
+    "main.js": "/kzu_songbook/static/js/main.dcd12dfb.js",
     "static/js/787.62fba4c2.chunk.js": "/kzu_songbook/static/js/787.62fba4c2.chunk.js",
     "static/media/kzuTlo1.jpg": "/kzu_songbook/static/media/kzuTlo1.726fd91ccc8514d401f2.jpg",
     "static/media/kzu.png": "/kzu_songbook/static/media/kzu.e3a7d3b6e1a40881279d.png",
     "index.html": "/kzu_songbook/index.html",
-    "static/media/arrow.svg": "/kzu_songbook/static/media/arrow.4cd58c9280491087ec669ebbfd38a7d4.svg",
-    "main.8b6442b6.js.map": "/kzu_songbook/static/js/main.8b6442b6.js.map",
+    "static/media/arrow.svg": "/kzu_songbook/static/media/arrow.e174d7e702243a941374259c5f7de1d1.svg",
+    "main.7b12cb80.css.map": "/kzu_songbook/static/css/main.7b12cb80.css.map",
+    "main.dcd12dfb.js.map": "/kzu_songbook/static/js/main.dcd12dfb.js.map",
     "787.62fba4c2.chunk.js.map": "/kzu_songbook/static/js/787.62fba4c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.8b6442b6.js"
+    "static/css/main.7b12cb80.css",
+    "static/js/main.dcd12dfb.js"
   ]
 }
