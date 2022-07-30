@@ -1,10 +1,12 @@
 import { SongBook } from "../../features/SongBook";
 import { SongPage } from "../../features/SongPage";
+import { SongLists } from "../../features/SongLists";
+import { AddSongList } from "../../features/AddSongList";
 import { Backposter } from "./Backposter";
 import { TopBar } from "./TopBar"
 
 import { HashRouter, Switch, Route, Redirect } from "react-router-dom";
-import { toSongs, toSong } from "../routes";
+import { toSongs, toSong, toSavedLists, toNewList } from "../routes";
 
 export const App = () => {
   return (
@@ -17,6 +19,12 @@ export const App = () => {
         </Route>
         <Route path={toSongs()}>
           <SongBook />
+        </Route>
+        <Route path={toSavedLists()}>
+          <SongLists />
+        </Route>
+        <Route path={toNewList()}>
+          <AddSongList />
         </Route>
         <Route path="/">
           <Redirect to={toSongs()} />
